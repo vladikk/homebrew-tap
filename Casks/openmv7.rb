@@ -1,6 +1,6 @@
 cask "openmv7" do
   version "0.1.0"
-  sha256 "6591a272001a906cd40c1d2c9f6691952061140ceb028dd3ba91861e1559f7d2"
+  sha256 "3b82bf1b58893524f03a366d5f466e00d3fbcbeef87ed2dd0e4117bbbccb66c1"
 
   url "https://github.com/vladikk/openmv7/releases/download/v#{version}/OpenMV7-#{version}.dmg"
   name "OpenMV7"
